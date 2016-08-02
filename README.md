@@ -1,3 +1,3 @@
 # PalindromeChecker
 
-A simple program that checks if an input string is a palindrome.
+A simple program that checks if a string is a palindrome.
